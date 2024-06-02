@@ -14,7 +14,7 @@ namespace WindowsFormsApp2
     public partial class Form1 : Form
     {
 
-        OleDbConnection con = new OleDbConnection("provider = microsoft.ace.oledb.12.0; data source = C:\\Users\\furka\\Desktop\\WindowsFormsApp2\\WindowsFormsApp2\\hastakayitDB.accdb");
+        OleDbConnection con = new OleDbConnection("provider = microsoft.ace.oledb.12.0; data source = C:\\Users\\furka\\Desktop\\HastaTakip-237017024-main\\WindowsFormsApp2\\hastakayitDB.accdb");
         OleDbCommand cmd;
         OleDbDataAdapter da;
 
